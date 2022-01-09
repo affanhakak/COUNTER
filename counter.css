@@ -1,0 +1,37 @@
+body {
+  background-color: rgb(197, 219, 233);
+}
+
+h1 {
+  margin-left: 600px;
+  margin-top: 150px;
+  color: rgb(100, 24, 90);
+}
+
+.score {
+  margin-left: 660px;
+  margin-top: 30px;
+  color: rgb(27, 3, 3);
+}
+
+button {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 3px;
+  padding-right: 3px;
+  color: black;
+  background-color: transparent;
+}
+
+button:hover {
+  color: antiquewhite;
+  background-color: brown;
+  transition: 0.5s ease-in;
+}
+
+.button1 {
+  display: inline;
+  justify-content: center;
+  margin-left: 560px;
+  margin-top: 30px;
+}
